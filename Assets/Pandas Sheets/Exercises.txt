@@ -1,0 +1,43 @@
+Exercise 1: Create a Pandas Series from a list [1, 2, 3, 4, 5].
+
+Exercise 2: Create a DataFrame from a dictionary where the keys are column names 
+and the values are lists: {'A': [1, 2, 3], 'B': [4, 5, 6], 'C': [7, 8, 9]}.
+
+Exercise 3: Load a CSV file named "data.csv" into a DataFrame.
+(Note: Assume the file "data.csv" exists in the current directory.)
+
+Exercise 4: Given a DataFrame df [[1,2,3],[4,5,6],[7,8,9],[10,11,12],[13,14,15]] 
+display the first 5 rows.
+
+Exercise 5: Given a DataFrame df [[1,2,3],[4,5,6],[7,8,9],[10,11,12],[13,14,15]] 
+display summary statistics (count, mean, min, max, etc.) for each column.
+
+Exercise 6: Given a DataFrame df {'A': [4,5,7,1,10,4], 'B':[5,2,1,9,23,5], 'C':[1,2,3,4,5,6]}
+filter rows where the value in column 'A' is greater than 2.
+
+Exercise 7: Given a DataFrame df {'A': [4,5,7,1,10,4], 'B':[5,2,1,9,23,5], 'C':[1,2,3,4,5,6]}
+add a new column 'D' that is the sum of columns 'A' and 'B'.
+
+Exercise 8: Given a DataFrame df {'A': [4,5,7,1,10,4], 'B':[5,2,1,9,23,5], 'C':[1,2,3,4,5,6]}
+sort the rows in descending order based on values in column 'C'.
+
+Exercise 9: Given a DataFrame df {'A': [4,5,7,1,10,4], 'B':[5,2,1,9,23,5], 'C':[1,2,3,4,5,6]}
+calculate the average of column 'B' where column 'A' is equal to 2.
+
+Exercise 10: Given a DataFrame df {'A': [4,5,7,1,10,4], 'B':[5,2,1,9,23,5], 'C':[1,2,3,4,5,6]}
+select and display the values in column 'A' as a Pandas Series.
+
+Exercise 11: Given a DataFrame df {'A': [4,5,7,1,10,4], 'B':[5,2,1,9,23,5], 'C':[1,2,3,4,5,6]}
+calculate the sum of values in column 'B'.
+
+Exercise 12: Given a DataFrame df {'A': [4,5,7,1,10,4], 'B':[5,2,1,9,23,5], 'C':[1,2,3,4,5,6]}
+replace all occurrences of the value 2 with 10 in column 'B'.
+
+Exercise 13: Given a DataFrame df {'A': [1,2,3], 'B':[4,5,6], 'C':[7,8,9], 'D':[10,11,12], 'E':[13,14,15]}
+display the last 3 rows.
+
+Exercise 14: Given a DataFrame df {'A': [4,5,7,1,10,4], 'B':[5,2,1,9,23,5], 'C':[1,2,3,4,5,6]}
+calculate the mean of values in column 'C'.
+
+Exercise 15: Given a DataFrame df {'A': [4,5,7,1,10,4], 'B':[5,2,1,9,23,5], 'C':[1,2,3,4,5,6]}
+select and display the values in columns 'A' and 'C' as a new DataFrame.

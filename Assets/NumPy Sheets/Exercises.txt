@@ -1,0 +1,30 @@
+Exercise 1: Create a NumPy array with elements from 1 to 5.
+
+Exercise 2: Create a 2x3 NumPy array with all zeros.
+
+Exercise 3: Create a 3x3 NumPy array filled with random values between 0 and 1.
+
+Exercise 4: Create a NumPy array with numbers from 1 to 10 and reshape it into a 2x5 array.
+
+Exercise 5: Given a NumPy array [1, 2, 3, 4, 5], add 5 to each element of the array.
+
+Exercise 6: Create a 4x4 identity matrix using NumPy.
+
+Exercise 7: Given two NumPy arrays [1, 2, 3, 4, 5] and [5, 4, 3, 2, 1], compute their element-wise multiplication.
+
+Exercise 8: Create a NumPy array with random values between 1 and 100 and find the maximum value in the array.
+
+Exercise 9: Create a NumPy array with numbers from 1 to 20 and reshape it into a 5x4 array. 
+Then, compute the sum of each column.
+
+Exercise 10: Create a 3x3 NumPy array with random integers between 1 and 10 and replace all even values with -1.
+
+Exercise 11: Given a 2D NumPy array arr, extract the second row and third column.
+
+Exercise 12: Create a NumPy array with random values between 0 and 1 and round each element to the nearest integer.
+
+Exercise 13: Given a NumPy array [1, 2, 3, 4, 5], reverse the order of the elements.
+
+Exercise 14: Create a 4x4 NumPy array and compute the mean of each row.
+
+Exercise 15: Given a NumPy array [1, 2, 3, 4, 5], calculate the cumulative sum of the elements.
