@@ -1,0 +1,13 @@
+
+1- Given a list of numbers. write a program to turn every item of a list into its square
+	lst = [1, 2, 3, 4, 5, 6, 7]
+	result = [1, 4, 9, 16, 25, 36, 49] 
+
+2-  write a program to Concatenate two lists
+
+3- write a program to Reverse the tuple
+
+bounce
+3- Convert two lists into a dictionary
+ 	keys = ['Ten', 'Twenty', 'Thirty']
+ 	values = [10, 20, 30]
