@@ -1,0 +1,15 @@
+1- Import Decision Tree Algorithm and adjust 
+its parameters (criterion)
+Hint: from sklearn.tree import DecisionTreeClassifier
+model = DecisionTreeClassifier(criterion='entropy')
+
+2- Fit your data X_train, y_train into the model
+model.fit(X_train,y_train)
+
+3- predict the labels of X_test
+Hint: model.predict()
+model.predict(X_test)
+
+4- Score the model for the training & testing performance
+Hint: model.score(predicted_x, y)
+model.score(X_test, y_test)
