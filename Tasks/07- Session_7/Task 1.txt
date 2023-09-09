@@ -1,0 +1,42 @@
+1- use wine dataset to cluster
+Hint: from sklearn.datasets import load_wine
+Hint: X,y = load_wine(return_X_y = True)
+
+2- Make an empty list
+
+3- make a range of numbers for the No. of clusters 
+and assign in to variable
+(choose the range to start from 1 to n; n of your choose)
+
+4- use K-Means from sklearn
+Hint: from sklearn.cluster import KMeans
+
+5- use for loop to try different number of k
+using the variable you created and stored the range
+
+6- Make an object of the KMeans and adjust 
+its parameters (n_clusters, max_iter)
+Hint: km = KMeans()
+
+7- Fit your data X into the model
+Hint: km.fit(X)
+
+8- Score your model for the current number of k and store the result
+in the list
+Hint: lst.append(km.intertia_)
+
+9- using matplotlib, plot the score for each number of k
+Hint: use plt.plot() function
+Hint: first parameter is the x-axis values which
+will be the k values you used
+Hint: second parameter is the y_axis values which
+will be the costs of each k stored in the list
+
+10- make another model as kmeans and train it
+for the best value of k you have accomplished
+Hint: km2 = KMeans(n_clusters = best k you accomplished)
+
+11- predict the cluster for each record
+Hint: prediction = km2.predict(X)
+
+12- print the prediction
