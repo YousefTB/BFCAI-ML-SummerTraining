@@ -1,0 +1,16 @@
+1- Import Logistic Regression and adjust its parameters (C, penalty, solver, max_iter)
+Hint: from sklearn.linear_model import LogisticRegression
+Hint: Solvers
+['liblinear': a good choice for small datasets]
+['lbfgs': Limited Memory Broyden–Fletcher–Goldfarb–Shanno algorithm, good for multiclass]
+['newton-cg': Quasi-newton method]
+['sag': stochastic gradient descent]
+['saga': stochastic gradient descent with l1 regularization]
+
+2- Fit your data X_train, y_train into the model
+
+3- predict the labels of X_test
+Hint: model.predict()
+
+4- Score the model for the training & testing performance
+Hint: model.score(predicted_x, y)

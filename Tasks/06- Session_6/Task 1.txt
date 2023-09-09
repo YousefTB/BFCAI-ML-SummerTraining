@@ -1,0 +1,11 @@
+1- Import different evaluation metrics (accuracy, precision, recall, f1-score, confusion matrix, roc,auc)
+Hint:
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, auc, 
+roc_curve, classification_report
+
+2- Evaluate your performed models using these metrics
+Hint: 
+First parameter --> y_true
+Second parameter --> y_pred
+
+3- Display the roc_curve using matplotlib
