@@ -19,7 +19,7 @@ All PDFs that contain the content of machine learning as each session about spec
   
 - **Eighth Session:** *Advanced Machine Learning and Intro to Deep Learning*, that is about how to deal with different problems that we would face through the journey of Machine learning and how to solve it. the second part is how the deep learning started and how it improved.
 
-You can find some helping `Jupyer Notebooks` for each session to assest your understanding.
+You can find some helping `Jupyter Notebooks` for each session to assest your understanding.
 
 ## Assets
 This folder contains all helping materials that you may need through the study of the Machine Learning, such as `Python Sheets`, `Pandas Sheets` and `NumPy Sheets`, you can also recall some different *Datasets* uploaded to practice what is discussed in the content of ML.
@@ -27,3 +27,20 @@ This folder contains all helping materials that you may need through the study o
 All uploaded folders is used for practicing on *Python* for the beginners, or different kind of libraries and packages such as *Pandas*, *NumPy* or *Matplotlib*.
 
 ## Tasks
+This secion contains all tasks associated with each session, which help you to assest your understanding and cover the practicality part of the machine learning, all hints exist for each task to help you practice.
+
+**NOTE !** The second session tasks is the same sheets for *Pandas*, *NumPy* and *Matplotlib* which you will find in the assets folder.
+
+## ML Projects
+Open-source Machine Learning projects that is applied on different types of datasets which you can practice and gain knowledge from different mindsets and how they solve it, you can add your projects for sharing.
+
+Contributers:
+- Aya Ramadan
+- Doaa Salem
+- Yousef Saeed
+- Amaal Abdelazeem
+- Ghada Ahmed
+- Mostafa Ahmed
+- Saga Rafat
+
+All thanks to the contributers :)
