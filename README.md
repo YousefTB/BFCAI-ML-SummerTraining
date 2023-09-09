@@ -1,5 +1,9 @@
 # BFCAI-ML-SummerTraining
 This repo for BFCAI Machine Learning-Summer Training, all important folders will be found here
+
+![Machine-learning-860x573](https://github.com/YousefTB/BFCAI-ML-SummerTraining/assets/95775013/ae40c298-29af-41e6-934b-c011b7ac6c63)
+
+
 ## Machine Learning Content
 All PDFs that contain the content of machine learning as each session about specific topics are marked from `01` to `08` in total of 8 sessions.
 
