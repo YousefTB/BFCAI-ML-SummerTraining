@@ -1,0 +1,21 @@
+1- Implement the SVM and LogisticRegression
+and adjust its parameters if you want to.
+Hint:
+from sklearn.svm import SVC
+from sklearn.linear_model import LogisticRegression
+
+2- put svc, LR and DT in list of tuples
+Hint:
+models = [('Decision Tree',DT),('SVC',svc),('Logistic Regression',LR)]
+
+3- import Stacking technique
+Hint: from sklearn.ensemble import StackingClassifier
+
+4- create StackingClassifier with your models
+and adjust its parameters
+[final_estimator, cv]
+NOTE ! its recommended the final_estimator to be logistic regression
+final_estimator = LogisticRegression()
+***The default LogisticRegression***
+
+5- Score your stack, once for train and the second for test sets

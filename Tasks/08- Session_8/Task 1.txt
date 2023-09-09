@@ -1,0 +1,46 @@
+1- use wine dataset to cluster
+Hint: from sklearn.datasets import load_wine
+Hint: X,y = load_wine(return_X_y = True)
+
+2- Split your X,y into train & test
+Hint: from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X,y, test_size=0.3)
+
+3- Implement the decision tree and MultinomialNB
+and adjust its parameters if you want to.
+Hint:
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.naive_bayes import MultinomialNB
+
+5- fit your X_train,y_train into your models
+Hint: model.fit(X_train, y_train)
+
+6- score your model, once for train and the second for test sets
+Hint: model.score(X_train,y_train)
+Hint: model.score(X_test,y_test)
+
+7- Import Bagging Classifier
+Hint: from sklearn.ensemble import BaggingClassifier
+
+8- Create the bagging classifier MultinomialNB
+and adjust the number of estimator [n_estimators]
+Hint: Bag = BaggingClassifier(yourModel, n_estimators=100)
+
+9- fit your X_train,y_train into your BaggingClassifier
+Hint: Bag.fit(X_train,y_train)
+
+10- Score your bagging, once for train and the second for test sets
+Hint: Bag.score(X_train,y_train)
+Hint: Bag.score(X_test,y_test)
+
+11- Import Random Forest model
+Hint: from sklearn.ensemble import RandomForestClassifier
+
+12- Create the random forest with your chosen parameters
+[n_estimators, criterion]
+Hint: RF = RandomForestClassifier()
+
+13- fit your X_train,y_train into your Random Forest
+
+14- Score your Random Forest, once for train 
+and the second for test sets

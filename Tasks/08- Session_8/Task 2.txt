@@ -1,0 +1,10 @@
+1- Import AdaBoost technique
+Hint: from sklearn.ensemble import AdaBoostClassifier
+
+2- Create AdaBoostClassifier with MultinomialNB
+and adjust the No. of estimators and learning rate
+[n_estimators, learning_rate]
+
+3- fit your X_train,y_train into AdaBoostClassifier
+
+4- Score your Adaboost, once for train and the second for test sets
