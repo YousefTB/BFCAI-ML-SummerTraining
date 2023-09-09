@@ -1,0 +1,28 @@
+1- write 3 variable and check for it's data types using type() function
+
+2- write 3 variable and take it in one line using split() function and print it
+
+3- write program take number from user then convert it to string " casting " then print lenth of this string using len() function
+
+4- you have number and you want to remove last k number from this number implement python program do that and print result
+
+5- take integer multiple number in one line using map and split then print maximum and minimum number from it using min and max function 
+
+6- Write a program that reads an integer salary then:
+
+	If salary < 1000,
+	-	Print you are poor
+	elif salary greater than or equal to 1000 and less than 20000
+	-	Print good salary
+	elif salary greater than or equal to 20000
+	-	Print you are rich
+
+7- Write a Python program that receives the age of the user and display whether he/she can drive a car. If the user is above 18 years old, he/she can drive.
+
+8- Write a Python program that finds the minimum of two values a and b.
+
+9- Write a Python program that divides two numbers together and display the result. However, if the second number is a zero then the calculation can't be done as dividing a number by zero gives a result of ‘infinity’.
+
+10- We need to print 0,3,6,9,12 using for loop
+
+11-We need to print 0 ,3 ,6 ,9 ,12 and index of positions using for loop -> hint: enumerate function 

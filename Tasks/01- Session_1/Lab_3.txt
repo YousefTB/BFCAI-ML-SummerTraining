@@ -1,0 +1,25 @@
+1- Write a function to count the number of vowels in a given string.
+
+2- Write a function to capitalize the first letter of each word in a given sentence.
+
+3- Create a Rectangle class with attributes "length" and "width". Implement methods to calculate the area and perimeter of the rectangle.
+
+4- create program using map function to upper each char in list of strings.
+in-> lst = ['iti', 'python', 'summer']
+res-> ['Iti', 'Python', 'Summer']  
+
+5- Given a list of strings, slice the sublist containing strings with lengths greater than 5 characters.
+
+6- Create a dictionary with the names of five countries as keys and their capitals as values. Print the capital of one of the countries.
+
+7- Given two dictionaries containing student names and their corresponding grades, combine them into a new dictionary containing (name, grade) pairs.
+
+
+8- write a program to Reverse the tuple
+
+bounce
+9- Convert two lists into a dictionary
+ 	keys = ['Ten', 'Twenty', 'Thirty']
+ 	values = [10, 20, 30]
+
+

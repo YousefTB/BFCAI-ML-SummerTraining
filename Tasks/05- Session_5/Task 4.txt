@@ -1,0 +1,10 @@
+1- Import Support Vector Machine Classifier and adjust its parameters (C, kernel)
+Hint: from sklearn.svm import SVC
+
+2- Fit your data X_train, y_train into the model
+
+3- predict the labels of X_test
+Hint: model.predict()
+
+4- Score the model for the training & testing performance
+Hint: model.score(predicted_x, y)

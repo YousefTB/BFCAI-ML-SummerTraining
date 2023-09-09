@@ -1,0 +1,37 @@
+First: Use diabetes dataset to be used in Regression problem
+Hint: from sklearn.datasets import load_diabetes
+
+Second: Implement the following
+1- Use the dataset as Dataframe
+Hint: df = load_diabetes(as_frame = True)
+
+2- Split the dataframe into X and y which X has the features and y has the NUMERICAL LABEL
+Hint: from sklearn.model_selection import train_test_split
+Hint: X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.3)
+
+3- Import and use the Linear Regression Model
+Hint: from sklearn.linear_model import LinearRegression
+
+4- Import and use the Lasso regression model and enhance its parameter (alpha, max_iter) that regularize the model
+Hint:
+from sklearn.linear_model import Lasso
+
+
+5- Import and use the Ridge regression model and enhance its parameter (alpha, max_iter, solver) that regularize the model
+Hint:
+from sklearn.linear_model import Ridge
+Hint: Solvers
+['lsqr': regularized least-squares]
+['sag':
+stochastic gradient descent]
+['saga': unbiased version of sag]
+
+6- fit the X_train, y_train into each model
+
+Hint: model.fit(X_train, y_train)
+
+
+
+7- evaluate each model to see its performance
+
+Hint: model.score(X_test, y_test)

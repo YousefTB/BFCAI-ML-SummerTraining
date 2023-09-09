@@ -1,0 +1,33 @@
+1- import the following libraries (NumPy, Pandas)
+
+2- use the following code to import iris_dataset
+from sklearn.datasets import load_iris
+
+3- Convert the dataset to DataFrames
+
+4- from the target column, drop all records with 
+the class 'virginica'
+
+5- Split the dataset into X (features) and y (target)
+
+6- split the dataset into (Train & Test) Sets and make 
+the test set size 30%
+Use the following command:
+from sklearn.model_selection import train_test_split
+Hint: Split it into X_train, X_test, y_train, y_test
+
+7- Import Knn Algorithm and adjust 
+its parameters (n_neighbors, weights, algorithm, p
+if you are using
+minkowsky metric and metric)
+Hint: from sklearn.neighbors import KNeighborsClassifier
+model = KNeighborsClassifier(n_neighbors=7, weights = 'distance', algorithm='brute_force', metric='euclidean')
+
+8- Fit your data X_train, y_train into the model
+model.fit(x_train, y_train)
+
+9- predict the labels of X_test
+Hint: model.predict()
+
+10- Score the model for the training & testing performance
+Hint: model.score(predicted_x, y)
