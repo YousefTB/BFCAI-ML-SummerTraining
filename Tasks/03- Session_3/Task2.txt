@@ -1,0 +1,14 @@
+First: Download your Dataset (loan) 
+from the following link 
+https://github.com/YousefTB/BFCAI-ML-SummerTraining/tree/main/Assets/Datasets
+
+Second: Implement the following
+1- Read the dataset using Pandas (Hint: The dataset in csv format)
+2- Analyze and Visualize the dataset as much as possible
+3- based on the step 2, Clean your data from duplicates, null values, outliers or any wrong and unmatched records
+4- Apply some preprocessing techniques such as transformation or standardization
+NOTE ! Do not try to CHEAT as using any of your mates' solution, DO YOUR OWN SUBMISSION !
+
+Third: You can use the following notebooks 
+from the following link as a guidance 
+https://github.com/YousefTB/BFCAI-ML-SummerTraining/tree/main/03-%20Data%20Analysis%20%26%20Preprocessing/Notebooks
