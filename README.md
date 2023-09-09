@@ -18,3 +18,12 @@ All PDFs that contain the content of machine learning as each session about spec
 - **Seventh Session:** *Unsupervised Machine Learning (Clustering)*, getting started with the second type of machine learning that is Unsupervised Learning, what it is used for, how it works and the types of it such as Clustering. one of the clustering technique called K-Means.
   
 - **Eighth Session:** *Advanced Machine Learning and Intro to Deep Learning*, that is about how to deal with different problems that we would face through the journey of Machine learning and how to solve it. the second part is how the deep learning started and how it improved.
+
+You can find some helping `Jupyer Notebooks` for each session to assest your understanding.
+
+## Assets
+This folder contains all helping materials that you may need through the study of the Machine Learning, such as `Python Sheets`, `Pandas Sheets` and `NumPy Sheets`, you can also recall some different *Datasets* uploaded to practice what is discussed in the content of ML.
+
+All uploaded folders is used for practicing on *Python* for the beginners, or different kind of libraries and packages such as *Pandas*, *NumPy* or *Matplotlib*.
+
+## Tasks
